@@ -1,0 +1,325 @@
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\appsettings.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Common\SmtpSettings.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.exe
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.deps.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.runtimeconfig.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.pdb
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Dapper.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Dapper.SqlBuilder.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\itextsharp.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.All.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Application.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Application.Interface.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Common.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Domain.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Infrastructure.FluentValidation.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SendGrid.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.csproj.AssemblyReference.cache
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfoInputs.cache
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfo.cs
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.csproj.CoreCompileInputs.cache
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.SourceforqualityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SourceforqualityAPI.props
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SourceforqualityAPI.props
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SourceforqualityAPI.props
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\scopedcss\bundle\SourceforqualityAPI.styles.css
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.csproj.CopyComplete
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\refint\SourceforqualityAPI.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.pdb
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.genruntimeconfig.cache
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\ref\SourceforqualityAPI.dll
+C:\Pawan Sharma\My Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.csproj.AssemblyReference.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfoInputs.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfo.cs
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.csproj.CoreCompileInputs.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Common\SmtpSettings.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.staticwebassets.runtime.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.exe
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.deps.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.runtimeconfig.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SourceforqualityAPI.pdb
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Dapper.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Dapper.SqlBuilder.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\itextsharp.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.All.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Application.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Application.Interface.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Common.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Core.Domain.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Optivem.Framework.Infrastructure.FluentValidation.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\SendGrid.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.SourceforqualityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SourceforqualityAPI.props
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SourceforqualityAPI.props
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SourceforqualityAPI.props
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\scopedcss\bundle\SourceforqualityAPI.styles.css
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.csproj.CopyComplete
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\refint\SourceforqualityAPI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.pdb
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\SourceforqualityAPI.genruntimeconfig.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SourceForQuality\Project\Api\SourceforqualityAPI\obj\Debug\net7.0\ref\SourceforqualityAPI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\appsettings.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Common\SmtpSettings.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.staticwebassets.runtime.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.exe
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.deps.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.runtimeconfig.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.pdb
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Dapper.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Dapper.SqlBuilder.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\itextsharp.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.All.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Application.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Application.Interface.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Common.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Domain.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Infrastructure.FluentValidation.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\SendGrid.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Serilog.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.csproj.AssemblyReference.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfoInputs.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfo.cs
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.csproj.CoreCompileInputs.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.SourceforqualityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.build.SourceforqualityAPI.props
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SourceforqualityAPI.props
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SourceforqualityAPI.props
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\scopedcss\bundle\SourceforqualityAPI.styles.css
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.csproj.CopyComplete
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\refint\SourceforqualityAPI.dll
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.pdb
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.genruntimeconfig.cache
+C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back\obj\Debug\net7.0\ref\SourceforqualityAPI.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\appsettings.Development.json
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Common\SmtpSettings.json
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\appsettings.json
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.staticwebassets.runtime.json
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.exe
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.deps.json
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.runtimeconfig.json
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\SourceforqualityAPI.pdb
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\BCrypt.Net-Next.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Dapper.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Dapper.SqlBuilder.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\FluentValidation.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Google.Apis.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Google.Apis.Auth.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Google.Apis.Core.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\itextsharp.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.All.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Application.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Application.Interface.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Common.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Core.Domain.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Optivem.Framework.Infrastructure.FluentValidation.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\SendGrid.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Serilog.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Serilog.Sinks.File.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\StarkbankEcdsa.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PersonalProjects\sourceofquality_back\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.csproj.AssemblyReference.cache
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfoInputs.cache
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.AssemblyInfo.cs
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.csproj.CoreCompileInputs.cache
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.SourceforqualityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.build.SourceforqualityAPI.props
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SourceforqualityAPI.props
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SourceforqualityAPI.props
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\staticwebassets.build.json
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\staticwebassets.development.json
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\scopedcss\bundle\SourceforqualityAPI.styles.css
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.csproj.CopyComplete
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.dll
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\refint\SourceforqualityAPI.dll
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.pdb
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\SourceforqualityAPI.genruntimeconfig.cache
+E:\PersonalProjects\sourceofquality_back\obj\Debug\net7.0\ref\SourceforqualityAPI.dll

@@ -1,0 +1,5 @@
+2023-07-20T22:17:02.3755792+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2023-07-20T22:17:02.4615747+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2023-07-20T22:17:02.5006495+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-07-20T22:17:02.6260126+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2023-07-20T22:17:02.6572425+05:30  [INF] Content root path: "E:\PersonalProjects\sourceofquality_back" (cc26f24e)

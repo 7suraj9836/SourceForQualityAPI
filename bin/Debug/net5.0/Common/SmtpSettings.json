@@ -1,0 +1,10 @@
+{
+  "SmtpHost": "smtp.sendgrid.net",
+  "SmtpPort": 587,
+  "SmtpCredId": "apikey",
+  //SmtpCredPassword here is api key 
+  "SmtpCredPassword": "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",
+  "SmtpFromEmail": "suraj.singh1@mail.vinove.com",
+  "SmtpSenderEmail": "suraj.singh1@mail.vinove.com"
+
+}

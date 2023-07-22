@@ -1,0 +1,5 @@
+2023-07-05T11:36:07.6833483+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2023-07-05T11:36:07.6886218+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2023-07-05T11:36:07.6939727+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-07-05T11:36:07.7046266+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2023-07-05T11:36:07.7063965+05:30  [INF] Content root path: "C:\Users\Suraj Singh\Desktop\All Projects\SouceForQualityGit\sourceofquality_back" (cc26f24e)
